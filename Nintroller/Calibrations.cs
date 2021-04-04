@@ -363,8 +363,8 @@
                     {
                         center_x = 512,
                         center_y = 512,
-                        width = 64,
-                        height = 64
+                        width = 0,
+                        height = 0
                     }
                 }
             };
@@ -613,8 +613,8 @@
                     {
                         center_x = 512,
                         center_y = 512,
-                        width = 128,
-                        height = 128
+                        width = 0,
+                        height = 0
                     }
                 }
             };
@@ -855,8 +855,8 @@
                     {
                         center_x = 512,
                         center_y = 512,
-                        width = 192,
-                        height = 192
+                        width = 0,
+                        height = 0
                     }
                 }
             };
@@ -1097,8 +1097,8 @@
                     {
                         center_x = 512,
                         center_y = 512,
-                        width = 224,
-                        height = 224
+                        width = 0,
+                        height = 0
                     }
                 }
             };
